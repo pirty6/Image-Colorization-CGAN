@@ -15,14 +15,14 @@ python main.py
 
 ## Results from Training
 <p align="center">
-    <img src="https://github.com/pirty6/Image-Colorization-CGAN/upload/master/Resources/training_samples.png">
+    <img src="https://github.com/pirty6/Image-Colorization-CGAN/blob/master/Resources/training_samples.png">
 </p>
 
 ## Results from Testing
 <p align="center">
-    <img src="img src="https://github.com/pirty6/Image-Colorization-CGAN/upload/master/Resources/testing_samples.png">
+    <img src="https://github.com/pirty6/Image-Colorization-CGAN/blob/master/Resources/testing_samples.png">
 </p>
 
 ## Thesis and Journal
-<a href="https://github.com/pirty6/Image-Colorization-CGAN/upload/master/Resources/Tesina_A01206747.pdf">Thesis</a>
+<a href="https://github.com/pirty6/Image-Colorization-CGAN/upload/master/Resources/Tesina_A01206747.pdf">Thesis</a></br>
 <a href="https://github.com/pirty6/Image-Colorization-CGAN/upload/master/Resources/Journal_A01206747.pdf">Journal</a>
