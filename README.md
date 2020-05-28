@@ -15,12 +15,12 @@ python main.py
 
 ## Architecture of the Generator
 <p align="center">
-    <img src="https://github.com/pirty6/Image-Colorization-CGAN/blob/master/Resources/testing_samples.png">
+    <img src="https://github.com/pirty6/Image-Colorization-CGAN/blob/master/Resources/generator_horizontal.png">
 </p>
 
 ## Results from Training
 <p align="center">
-    <img src="https://github.com/pirty6/Image-Colorization-CGAN/blob/master/Resources/generator_horizontal.png">
+    <img src="https://github.com/pirty6/Image-Colorization-CGAN/blob/master/Resources/training_samples.png">
 </p>
 
 ## Results from Testing
