@@ -27,7 +27,6 @@ DATASET_PATH = PATH + 'Images/'
 TRAIN_PATH = DATASET_PATH + 'Train/'
 TEST_PATH = './gdrive/My Drive/CGAN/Images/Test_4/'
 RESULTS_PATH = PATH + 'Test_2/'
-WEIGHTS_PATH = PATH + 'temp/generated_epoch4.hdf5'
 
 # Constants
 BATCH_SIZE = 32
@@ -101,7 +100,7 @@ def construct_discriminator(image_shape, df):
 
 # Uses keras datagenerator to get the images from the source folder and resize them to 
 # images size 224x224
-def load_dataset(dataset_path, batch_size, image_shape)
+def load_dataset(dataset_path, batch_size, image_shape):
  data = ImageDataGenerator(rescale = 1. / 255)
  train_data = data.flow_from_directory(dataset_path,
                                        target_size = (image_shape[0], image_shape[1]),
